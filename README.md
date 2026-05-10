@@ -36,6 +36,12 @@ The repository contains the Software CPU project and the added recursive functio
 | `README.md` | Overview, instructions, video link |
 ---
 
+## Video Demonstration
+### Factorial
+https://youtu.be/7rK0Fj6bZWw
+
+---
+
 ## Download, Compile, and Run
 
 ### Requirements
